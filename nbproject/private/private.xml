@@ -3,7 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/xampp/htdocs/PluginBiometricoV3/src/CrearServicioWindows/CrearServicio.java</file>
             <file>file:/C:/xampp/htdocs/PluginBiometricoV3/src/FIngerUtils/LecturaHuella.java</file>
+            <file>file:/C:/xampp/htdocs/PluginBiometricoV3/src/FIngerUtils/CapturarHuella.java</file>
+            <file>file:/C:/xampp/htdocs/PluginBiometricoV3/src/FIngerUtils/GetLecturaHuella.java</file>
+            <file>file:/C:/xampp/htdocs/PluginBiometricoV3/src/UI/Start.java</file>
+            <file>file:/C:/xampp/htdocs/PluginBiometricoV3/src/FIngerUtils/finger_temp.java</file>
+            <file>file:/C:/xampp/htdocs/PluginBiometricoV3/src/UI/HabilitarLector.java</file>
         </group>
     </open-files>
 </project-private>
